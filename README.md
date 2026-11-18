@@ -18,7 +18,7 @@ My first repository
 
 ## 📊 Quick Details
 
-| Category | Details |
+| Category | Details | 
 | :--- | :--- |
 | **Genre** | Sci-Fi, Horror, Mystery |
 | **Release Year** | 2016 |
